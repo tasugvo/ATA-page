@@ -1,0 +1,34 @@
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.container-footer{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 100px;
+
+    
+    
+
+}
+
+.container-footer>p{
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-footer>img{
+
+    width: 27px;
+    height: 1%;
+    
+
+    margin-right: 6px;
+}
